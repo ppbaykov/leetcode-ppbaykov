@@ -1,0 +1,15 @@
+/Users/ppbaykov/Documents/Development/leetcode/13/leetcode/leetcode/bin/Debug/net6.0/leetcode
+/Users/ppbaykov/Documents/Development/leetcode/13/leetcode/leetcode/bin/Debug/net6.0/leetcode.deps.json
+/Users/ppbaykov/Documents/Development/leetcode/13/leetcode/leetcode/bin/Debug/net6.0/leetcode.runtimeconfig.json
+/Users/ppbaykov/Documents/Development/leetcode/13/leetcode/leetcode/bin/Debug/net6.0/leetcode.dll
+/Users/ppbaykov/Documents/Development/leetcode/13/leetcode/leetcode/bin/Debug/net6.0/leetcode.pdb
+/Users/ppbaykov/Documents/Development/leetcode/13/leetcode/leetcode/obj/Debug/net6.0/leetcode.csproj.AssemblyReference.cache
+/Users/ppbaykov/Documents/Development/leetcode/13/leetcode/leetcode/obj/Debug/net6.0/leetcode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ppbaykov/Documents/Development/leetcode/13/leetcode/leetcode/obj/Debug/net6.0/leetcode.AssemblyInfoInputs.cache
+/Users/ppbaykov/Documents/Development/leetcode/13/leetcode/leetcode/obj/Debug/net6.0/leetcode.AssemblyInfo.cs
+/Users/ppbaykov/Documents/Development/leetcode/13/leetcode/leetcode/obj/Debug/net6.0/leetcode.csproj.CoreCompileInputs.cache
+/Users/ppbaykov/Documents/Development/leetcode/13/leetcode/leetcode/obj/Debug/net6.0/leetcode.dll
+/Users/ppbaykov/Documents/Development/leetcode/13/leetcode/leetcode/obj/Debug/net6.0/refint/leetcode.dll
+/Users/ppbaykov/Documents/Development/leetcode/13/leetcode/leetcode/obj/Debug/net6.0/leetcode.pdb
+/Users/ppbaykov/Documents/Development/leetcode/13/leetcode/leetcode/obj/Debug/net6.0/leetcode.genruntimeconfig.cache
+/Users/ppbaykov/Documents/Development/leetcode/13/leetcode/leetcode/obj/Debug/net6.0/ref/leetcode.dll

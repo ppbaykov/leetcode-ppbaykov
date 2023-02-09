@@ -1,0 +1,15 @@
+/Users/ppbaykov/Documents/Development/leetcode/hashset1/hashset1/hashset1/bin/Debug/net6.0/hashset1
+/Users/ppbaykov/Documents/Development/leetcode/hashset1/hashset1/hashset1/bin/Debug/net6.0/hashset1.deps.json
+/Users/ppbaykov/Documents/Development/leetcode/hashset1/hashset1/hashset1/bin/Debug/net6.0/hashset1.runtimeconfig.json
+/Users/ppbaykov/Documents/Development/leetcode/hashset1/hashset1/hashset1/bin/Debug/net6.0/hashset1.dll
+/Users/ppbaykov/Documents/Development/leetcode/hashset1/hashset1/hashset1/bin/Debug/net6.0/hashset1.pdb
+/Users/ppbaykov/Documents/Development/leetcode/hashset1/hashset1/hashset1/obj/Debug/net6.0/hashset1.csproj.AssemblyReference.cache
+/Users/ppbaykov/Documents/Development/leetcode/hashset1/hashset1/hashset1/obj/Debug/net6.0/hashset1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ppbaykov/Documents/Development/leetcode/hashset1/hashset1/hashset1/obj/Debug/net6.0/hashset1.AssemblyInfoInputs.cache
+/Users/ppbaykov/Documents/Development/leetcode/hashset1/hashset1/hashset1/obj/Debug/net6.0/hashset1.AssemblyInfo.cs
+/Users/ppbaykov/Documents/Development/leetcode/hashset1/hashset1/hashset1/obj/Debug/net6.0/hashset1.csproj.CoreCompileInputs.cache
+/Users/ppbaykov/Documents/Development/leetcode/hashset1/hashset1/hashset1/obj/Debug/net6.0/hashset1.dll
+/Users/ppbaykov/Documents/Development/leetcode/hashset1/hashset1/hashset1/obj/Debug/net6.0/refint/hashset1.dll
+/Users/ppbaykov/Documents/Development/leetcode/hashset1/hashset1/hashset1/obj/Debug/net6.0/hashset1.pdb
+/Users/ppbaykov/Documents/Development/leetcode/hashset1/hashset1/hashset1/obj/Debug/net6.0/hashset1.genruntimeconfig.cache
+/Users/ppbaykov/Documents/Development/leetcode/hashset1/hashset1/hashset1/obj/Debug/net6.0/ref/hashset1.dll
