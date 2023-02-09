@@ -1,0 +1,15 @@
+/Users/ppbaykov/Documents/Development/leetcode/problems/1/leetcode1/leetcode1Console/bin/Debug/net6.0/leetcode1Console
+/Users/ppbaykov/Documents/Development/leetcode/problems/1/leetcode1/leetcode1Console/bin/Debug/net6.0/leetcode1Console.deps.json
+/Users/ppbaykov/Documents/Development/leetcode/problems/1/leetcode1/leetcode1Console/bin/Debug/net6.0/leetcode1Console.runtimeconfig.json
+/Users/ppbaykov/Documents/Development/leetcode/problems/1/leetcode1/leetcode1Console/bin/Debug/net6.0/leetcode1Console.dll
+/Users/ppbaykov/Documents/Development/leetcode/problems/1/leetcode1/leetcode1Console/bin/Debug/net6.0/leetcode1Console.pdb
+/Users/ppbaykov/Documents/Development/leetcode/problems/1/leetcode1/leetcode1Console/obj/Debug/net6.0/leetcode1Console.csproj.AssemblyReference.cache
+/Users/ppbaykov/Documents/Development/leetcode/problems/1/leetcode1/leetcode1Console/obj/Debug/net6.0/leetcode1Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ppbaykov/Documents/Development/leetcode/problems/1/leetcode1/leetcode1Console/obj/Debug/net6.0/leetcode1Console.AssemblyInfoInputs.cache
+/Users/ppbaykov/Documents/Development/leetcode/problems/1/leetcode1/leetcode1Console/obj/Debug/net6.0/leetcode1Console.AssemblyInfo.cs
+/Users/ppbaykov/Documents/Development/leetcode/problems/1/leetcode1/leetcode1Console/obj/Debug/net6.0/leetcode1Console.csproj.CoreCompileInputs.cache
+/Users/ppbaykov/Documents/Development/leetcode/problems/1/leetcode1/leetcode1Console/obj/Debug/net6.0/leetcode1Console.dll
+/Users/ppbaykov/Documents/Development/leetcode/problems/1/leetcode1/leetcode1Console/obj/Debug/net6.0/refint/leetcode1Console.dll
+/Users/ppbaykov/Documents/Development/leetcode/problems/1/leetcode1/leetcode1Console/obj/Debug/net6.0/leetcode1Console.pdb
+/Users/ppbaykov/Documents/Development/leetcode/problems/1/leetcode1/leetcode1Console/obj/Debug/net6.0/leetcode1Console.genruntimeconfig.cache
+/Users/ppbaykov/Documents/Development/leetcode/problems/1/leetcode1/leetcode1Console/obj/Debug/net6.0/ref/leetcode1Console.dll
